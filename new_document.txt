@@ -1,3 +1,7 @@
 Testing with sourcetree. 2
 
+<<<<<<< HEAD
 Done update19.
+=======
+Done update15.
+>>>>>>> 3fae81120abcea8b0ac7fdc8ec534d3e7c043e84
